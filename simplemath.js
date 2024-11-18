@@ -3,4 +3,4 @@
  sum= x+y;
  avg=x/y;
  console.log(sum);
- console.log(avg);
+ console.log(avg);sdfvdg
