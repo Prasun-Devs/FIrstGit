@@ -1,0 +1,2 @@
+# FIrstGit
+Simple sum
